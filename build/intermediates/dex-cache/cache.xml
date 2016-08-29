@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_e492d2c784a92c80b84eb8b4023800913bc0836b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\tinypinyin-1.0.0_770c699beaa8c196ecc67ee04a6d8c48c307ad09.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_7442c85b29ebf29eca1f9df0efbc9a6555c541ba.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_847fd83444011f351e8e84ebd59cd5329fa3206d.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_81808ebf87d9b6320cf3aa876888c168e2584435.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_e0374032e4be621498a27eb6d30419430e72a2a3.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_561ddc43959888a86a5d806d40f372ae62664047.jar" />
+    </item>
+    <item
+        jar="G:\demo\CityDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_b55b9661a6ab8a8714d4feeae993ec5b79dc5895.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="G:\demo\CityDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_0b4579bf2813857f3594218579a6a7334f3c50f7.jar" />
+    </item>
+
+</items>
